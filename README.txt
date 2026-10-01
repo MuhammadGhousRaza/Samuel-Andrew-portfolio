@@ -1,7 +1,7 @@
 ================================================================================
 SAMUEL ANDREW — PERSONAL PORTFOLIO WEBSITE
 AI Video Creator & Social Media Marketer
-Contact Email: ghousraza5254@gmail.com
+Contact Email: samuelandrew0880@gmail.com
 ================================================================================
 
 1. OVERVIEW
@@ -68,7 +68,7 @@ To update a video:
 
 4. HOW TO UPDATE CONTACT INFORMATION
 ---------------------------------------
-- Email: ghousraza5254@gmail.com (updated across index.html)
+- Email: samuelandrew0880@gmail.com (updated across index.html)
 - Phone / WhatsApp: Currently placeholder `+92 XXX XXXXXXX`.
   Search for `+92 XXX XXXXXXX` in `index.html` to insert your active number.
 
@@ -81,13 +81,13 @@ To deploy to Netlify and receive email notifications:
 3. The contact form is pre-configured with:
    `<form name="contact" method="POST" action="/" data-netlify="true" netlify netlify-honeypot="bot-field" id="contact-form">`
    The local Vite preview does not send email; test submissions on the deployed Netlify URL.
-4. HOW TO RECEIVE SUBMISSIONS TO YOUR EMAIL (ghousraza5254@gmail.com):
+4. HOW TO RECEIVE SUBMISSIONS TO YOUR EMAIL (samuelandrew0880@gmail.com):
    In your Netlify Dashboard for this site:
    - Go to: Site configuration (or Site settings) -> Notifications
    - Click "Add notification" -> "Email notification"
    - Under "Event", select: "New form submission"
    - Under "Form", select: "contact"
-   - Under "Email to notify", enter: ghousraza5254@gmail.com
+   - Under "Email to notify", enter: samuelandrew0880@gmail.com
    - Click "Save"
    Whenever a visitor submits the inquiry form on your live site, Netlify will instantly email all submitted details (Full Name, Email, Phone/WhatsApp, Service, Project Details) straight to your inbox!
 
